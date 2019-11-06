@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+a{
+    text-decoration: none;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 200px;
+    background: transparent;
+    border-bottom: 2px solid #ffffff;
+}
+
+#logo{
+    width: 150px;
+}
+
+body{
+    width: 100%;
+    height: 100vh;
+    background: pink;
+}
+
+.champ{
+    padding: 20px;
+    margin: 20px;
+    width: 100px;
+    height: 100vh;
+    background: plum;
+    text-align: center;
+}
+
+
